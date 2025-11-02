@@ -56,3 +56,9 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white">
 </p>
+
+<p align="center">
+  <span style="font-size:20px;"><b>🔧 Other:</b></span><br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Image_Modeler-6C5CE7?style=for-the-badge">
+</p>
