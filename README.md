@@ -20,17 +20,15 @@
   <span style="font-size:20px;"><b>🧩 Frameworks & Libraries:</b></span><br>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   <img src="https://img.shields.io/badge/Boost-0F88E5?style=for-the-badge&logo=boost&logoColor=white">
-  <img src="https://img.shields.io/badge/gRPC-00B1FF?style=for-the-badge&logo=grpc&logoColor=white">
-  <img src="https://img.shields.io/badge/REST API-FF6C37?style=for-the-badge&logo=rest&logoColor=white">
   <img src="https://img.shields.io/badge/STL-007ACC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MQTT-FF6F61?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTTP-339933?style=for-the-badge">
+  <img src="https://img.shields.io/badge/gRPC-00B1FF?style=for-the-badge&logo=grpc&logoColor=white">
   <img src="https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge">
 </p>
 
 <p align="center">
   <span style="font-size:20px;"><b>🗄️ Databases:</b></span><br>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 <p align="center">
@@ -40,6 +38,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
 <p align="center">
@@ -48,6 +48,13 @@
   <img src="https://img.shields.io/badge/Boost_Test-0F88E5?style=for-the-badge&logo=boost&logoColor=white">
   <img src="https://img.shields.io/badge/Catch2-FF6F61?style=for-the-badge&logo=catch2&logoColor=white">
   <img src="https://img.shields.io/badge/pytest-cb3837?style=for-the-badge&logo=pytest&logoColor=white">
+</p>
+
+<p align="center">
+  <span style="font-size:20px;"><b>🌐 API & Protocols & Networking:</b></span><br>
+  <img src="https://img.shields.io/badge/MQTT-FF6F61?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTTP-339933?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST API-FF6C37?style=for-the-badge&logo=rest&logoColor=white">
 </p>
 
 <p align="center">
