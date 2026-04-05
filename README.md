@@ -1,71 +1,22 @@
-<h1 align="center">👋 Hi there! I'm Victor — C++ Developer</h1>
-
-<h2 align="center">🧠 About Me</h2>
-
 <p align="center">
-  💼 Over <b>2 years of commercial C++ development experience</b>, focused on building reliable and maintainable software<br>
-  ⚙️ Interested in <b>system-level programming</b> and exploring different <b>software architectures and design approaches</b><br>
-  🧩 In my spare time, I do <b>3D modeling</b> — a creative break from coding
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<h2 align="center">⚙️ Tech Stack</h2>
+## ↝ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ↜
+```
+✦ 𝐎𝐯𝐞𝐫 𝟑 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐢𝐚𝐥 𝐂++ 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+✦ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐟𝐨𝐫 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬
+✦ 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐭𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐮𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐭𝐨 𝐬𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐧𝐞 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬
+✦ 𝐒𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠
+```
 
-<p align="center">
-  <span style="font-size:20px;"><b>💻 Languages:</b></span><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+## ↝ 𝐒𝐤𝐢𝐥𝐥𝐬 ↜
 
-<p align="center">
-  <span style="font-size:20px;"><b>🧩 Frameworks & Libraries:</b></span><br>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-  <img src="https://img.shields.io/badge/Boost-0F88E5?style=for-the-badge&logo=boost&logoColor=white">
-  <img src="https://img.shields.io/badge/STL-007ACC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/gRPC-00B1FF?style=for-the-badge&logo=grpc&logoColor=white">
-  <img src="https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge">
-</p>
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Modeling](https://img.shields.io/badge/Modeling-black?style=for-the-badge&logo=blender&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <span style="font-size:20px;"><b>🗄️ Databases:</b></span><br>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+## ↝ 𝐎𝐭𝐡𝐞𝐫𝐬 ↜
 
-<p align="center">
-  <span style="font-size:20px;"><b>🧱 Build & Dev Tools:</b></span><br>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-</p>
-
-<p align="center">
-  <span style="font-size:20px;"><b>🧪 Testing & Quality:</b></span><br>
-  <img src="https://img.shields.io/badge/Google_Test-00ACED?style=for-the-badge&logo=googletest&logoColor=white">
-  <img src="https://img.shields.io/badge/Boost_Test-0F88E5?style=for-the-badge&logo=boost&logoColor=white">
-  <img src="https://img.shields.io/badge/Catch2-FF6F61?style=for-the-badge&logo=catch2&logoColor=white">
-  <img src="https://img.shields.io/badge/pytest-cb3837?style=for-the-badge&logo=pytest&logoColor=white">
-</p>
-
-<p align="center">
-  <span style="font-size:20px;"><b>🌐 API & Protocols & Networking:</b></span><br>
-  <img src="https://img.shields.io/badge/MQTT-FF6F61?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTTP-339933?style=for-the-badge">
-  <img src="https://img.shields.io/badge/REST API-FF6C37?style=for-the-badge&logo=rest&logoColor=white">
-</p>
-
-<p align="center">
-  <span style="font-size:20px;"><b>⚙️ Systems & Platforms:</b></span><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white">
-</p>
-
-<p align="center">
-  <span style="font-size:20px;"><b>🔧 Other:</b></span><br>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Image_Modeler-6C5CE7?style=for-the-badge">
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/katsugrace?theme=dark)
