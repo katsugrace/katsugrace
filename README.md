@@ -19,4 +19,10 @@
 
 ## ↝ 𝐎𝐭𝐡𝐞𝐫𝐬 ↜
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/katsugrace?theme=dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/katsugrace?theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/katsugrace/badges/large" width="100%" />
+</p>
