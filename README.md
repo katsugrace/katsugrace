@@ -20,9 +20,9 @@
 ## ↝ 𝐎𝐭𝐡𝐞𝐫𝐬 ↜
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/katsugrace?theme=dark" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/katsugrace?theme=dark" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/katsugrace/badges/large" width="100%" />
+  <img src="https://www.codewars.com/users/katsugrace/badges/large" width="50%" />
 </p>
